@@ -1,1 +1,4 @@
 venv
+images
+.env
+__pycache__/emailing.cpython-310.pyc
